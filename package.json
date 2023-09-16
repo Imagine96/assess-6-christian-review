@@ -1,0 +1,14 @@
+{
+  "name": "assessment-6",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:Imagine96/assess-6-christian-review.git",
+  "author": "Imagine96 <rubged9606@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "dev": "nodemon ./src/index.js"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.1"
+  }
+}
